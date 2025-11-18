@@ -29,7 +29,6 @@ Focused on reliability, automation, and clean architecture for production system
 ### Infrastructure as Code  
 <p>
   <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bicep-0F144A?style=for-the-badge&logo=azure&logoColor=white"/>
 </p>
 
 ### Cloud  
