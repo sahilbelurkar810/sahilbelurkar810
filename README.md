@@ -1,17 +1,25 @@
-<!-- Banner -->
+<!-- Animated Intro Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00AEEF&center=true&vCenter=true&width=900&lines=Sahil+Belurkar;DevOps+Engineer;Kubernetes+%7C+GitOps+%7C+Cloud+Infrastructure" />
+</p>
+
+<!-- DevOps GIF Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/master/resources/devops.gif" width="800"/>
 </p>
 
-# Sahil Belurkar
-DevOps Engineer | Kubernetes & GitOps | Cloud Infrastructure
+---
+
+<!-- About -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=About+Me" />
 
 I build scalable, automated cloud-native infrastructure using Kubernetes, ArgoCD, Terraform, Helm, and modern CI/CD workflows.  
 Focused on reliability, automation, and clean architecture for production systems.
 
 ---
 
-## Tech Stack
+<!-- Tech Stack -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Tech+Stack" />
 
 ### Containerization & Orchestration  
 <p>
@@ -52,7 +60,9 @@ Focused on reliability, automation, and clean architecture for production system
 
 ---
 
-## Tools I Use Daily
+<!-- Daily Tools -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Tools+I+Use+Daily" />
+
 <p>
   <img src="https://img.shields.io/badge/K8s-326CE5"/>
   <img src="https://img.shields.io/badge/ArgoCD-FE4C00"/>
@@ -64,27 +74,34 @@ Focused on reliability, automation, and clean architecture for production system
 
 ---
 
-## Featured Work
+<!-- Featured Work -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Featured+Work" />
+
 - Production-ready Kubernetes deployment templates  
 - GitOps repository structure (multi-env, multi-cluster, ApplicationSets)  
-- AKS/EKS infra modules with Terraform  
+- AKS/EKS infrastructure modules with Terraform  
 - Python tooling for DevOps automation  
 
 ---
 
+<!-- WakaTime -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Coding+Activity+(WakaTime)" />
 
-## Coding Activity (WakaTime)
 [![wakatime](https://wakatime.com/badge/user/271fc26d-3e83-4633-bba4-52cb70c7c5a8/project/53b657c7-201c-4b17-bd1b-0ea688291397.svg)](https://wakatime.com/badge/user/271fc26d-3e83-4633-bba4-52cb70c7c5a8/project/53b657c7-201c-4b17-bd1b-0ea688291397)
 
 ---
 
-## Visitor Count
+<!-- Visitors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Visitor+Count" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilbelurkar&style=flat-square&color=blue"/>
 </p>
 
 ---
 
-## Contact
+<!-- Contact -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=800&color=00AEEF&width=500&lines=Contact" />
+
 LinkedIn:  
-Email:  
+Email:
