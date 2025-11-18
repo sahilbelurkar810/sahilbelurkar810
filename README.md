@@ -76,7 +76,7 @@ Focused on reliability, automation, and clean architecture for production system
 
 ## Coding Activity (WakaTime)
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-USER-ID-HERE.svg"/>
+ <img src="https://wakatime.com/badge/user/sahilbelurkar12.svg"/>
 </p>
 
 ---
